@@ -1,10 +1,5 @@
-body {background: lightgray;
+body {background:lightgray;
    color: black;}
-
-#top-section{
-  border-radius: 10px;
-  border: 1em, solid;
-}
 
 #masthead {background: rgb(1%,1%,1%)
   url(http://astronomy.nmsu.edu/dept/images/backdrop.jpg)  no-repeat;
@@ -12,6 +7,8 @@ body {background: lightgray;
   padding-top: 1.4em;
   padding-bottom: 1.4em;
   padding-left: 2em;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
   }
 
 #masthead h1 {font-weight: normal;
@@ -31,15 +28,21 @@ body {background: lightgray;
   font-size: 50%; letter-spacing: 0.4em;}
 #masthead h2 {color: rgb(19%,22%,56%);}
 
+.navbar-default{
+  margin-bottom:0em;
+}
+
 .navbar-collapse{
   background: rgb(17%,20%,50%);
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
 }
-.navbar-collapse > ul > li.dropdown > a{
+.navbar-collapse > ul > li > a{
   color: rgb(94%,94%,98%) !important;
   font-weight: bold;
 }
 
-.navbar-collapse > ul > li.dropdown > a:hover{
+.navbar-collapse > ul > li > a:hover{
   color: black !important;
   font-weight: bold;
 }
@@ -50,4 +53,20 @@ body {background: lightgray;
 
 .dropdown-menu li a:hover {
   background: lightgray;
+}
+
+td {
+    padding-right: 2em;
+    text-align: left;
+}
+
+.container{
+  background: white;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  padding-left: 2em;
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
 }

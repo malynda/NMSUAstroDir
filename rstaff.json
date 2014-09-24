@@ -1,0 +1,75 @@
+{"rstaff":[{
+    "name":"Aleksandra Andic",
+    "title":"Postdoctoral Researcher",
+    "office":"Astr 201",
+    "phone":"646.2399",
+    "email":"andic",
+    "research":"Solar astrophysics; oscillatory events in the solar atmosphere"
+  },{"name":"Jessica Evans",
+    "title":"Postdoctoral Researcher",
+    "office":"Astr 212",
+    "phone":"646.3000",
+    "email":"jlevans",
+    "research":"Quasar absorption lines; galaxy structure and dynamics"
+  },{"name":"Vigeesh Gangadharan",
+    "title":"Postdoctoral Researcher",
+    "office":"Astr 201",
+    "phone":"646.2399",
+    "email":"vigeesh",
+    "research":"Solar astrophysics"
+  },{"name":"Patrick Gaulme",
+    "title":"Postdoctoral Researcher",
+    "office":"Astr 201",
+    "phone":"646.2399",
+    "email":"gaulme",
+    "research":"Exoplanets and solar-like stars; dynamics of planetary atmospheres"
+  },{"name":"Paul Higbie",
+    "title":"Research Associate",
+    "office":"Astr 211",
+    "phone":"646.2107",
+    "email":"pahigbie",
+    "research":"Cosmic rays; space science and instrumentation"
+  },{"name":"Lyle Huber",
+    "title":"Project Coordinator, PDS Atmospheres Node",
+    "office":"Astr 218",
+    "phone":"646.1862",
+    "email":"lhuber",
+    "research":"Data acquisition and archival preparation"
+  },{"name":"Young Sun Lee",
+    "title":"Tombaugh Postdoctoral Fellow",
+    "office":"Astr 213",
+    "phone":"646.2566",
+    "email":"yslee",
+    "research":"Galactic chemical evolution"
+  },{"name":"Amy Smith Muise",
+    "title":"Research Assistant",
+    "office":"Astr 101",
+    "phone":"646.4438",
+    "email":"smiamy",
+    "research":"Astronomy education; distance education; public outreach"
+  },{"name":"Lynn Neakrase",
+    "title":"Senior Scientist Specialist, PDS Atmospheres Node",
+    "office":"Astr 218",
+    "phone":"646.1862",
+    "email":"lneakras",
+    "research":"Mars atmosphere; dust devils"
+  },{"name":"Jim Norwood",
+    "title":"Postdoctoral Researcher",
+    "office":"Astr 112",
+    "phone":"646.6399",
+    "email":"jnorwood",
+    "research":"Giant planet atmospheres; observation planning with James Webb Space Telescope
+"
+  },{"name":"Irma Trejo",
+    "title":"Research Assistant",
+    "office":"Astr 218",
+    "phone":"646.1862",
+    "email":"itrejo",
+    "research":"Data access tools; PDS Atmospheres Node"
+  },{"name":"Tina Villa",
+    "title":"Research Assistant",
+    "office":"Astr 205",
+    "phone":"646.2007",
+    "research":"Cosmic rays"
+  }
+  ]}

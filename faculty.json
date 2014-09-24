@@ -1,11 +1,114 @@
-[{"name":"Jon Holtzman",
-  "title":"Department Head",
-  "email":"holtz",
-  "office":"102 Astr",
-  "research":"stars & galaxies" },
-  {"name":"Jim Murphy",
-    "title":"Associate Professor",
-    "email":"murphy",
-    "office":"202B Astr",
-    "research":"planetary atmospheres"
-    }]
+{"faculty":[{
+  "name": "Jon Holtzman",
+  "title": "Department Chairman",
+  "office":"Astr 102",
+  "phone": "646.8181",
+  "email": "holtz",
+  "research": "Stellar populations; star clusters; galactic structure; cosmology"
+},{
+  "name":"Kurt Anderson",
+  "title": "Professor Emeritus",
+  "office":"Astr 211B",
+  "phone":"646.1032",
+  "email":"kurt",
+  "research":"Galaxy morphology; active galactic nuclei; planets"
+},{
+  "name":"Herb Beebe",
+  "title":"Professor Emeritus",
+  "office":"Astr 211",
+  "phone":"646.2107",
+  "email":"hbeebe",
+  "research": "The Tombaugh Project; history of NM astronomy"
+},{
+  "name":"Reta Beebe",
+  "title":"College Professor",
+  "office":"Astr 301",
+  "phone":"646.1938",
+  "email":"rbeebe",
+  "research":"Planets; NASA Planetary Data System"
+}
+,{
+  "name":"Nancy Chanover",
+  "title":"Associate Professor",
+  "office":"Astr 210",
+  "phone":"646.2567",
+  "email":"nchanove",
+  "research":"Planets; infrared imaging; radiative transfer modeling"
+},{
+  "name":"Chris Churchill",
+  "title":"Associate Professor",
+  "office":"Astr 105",
+  "phone":"646.1913",
+  "email":"cwc",
+  "research":"Quasar absorption lines; variations in fundamental constant"
+},{
+  "name":"Thomas Harrison",
+  "title":"Observatory Research Specialist",
+  "office":"Astr 103",
+  "phone":"646.3628",
+  "email":"tharriso",
+  "research":"Cataclysmic variables; infrared spectroscopy"
+},{
+  "name":"Jason Jackiewicz",
+  "title":"Assistant Professor",
+  "office":"Astr 106",
+  "phone":"646.1699",
+  "email":"jasonj",
+  "research":"Helioseismology"
+},{
+  "name":"Joni Johnson",
+  "title":"Research Fellow",
+  "office":"Astr 211A",
+  "phone":"646.1518",
+  "email":"jojohnso",
+  "research":"Cataclysmic variables; PAGB stars"
+},{
+  "name":"Anatoly Klypin",
+  "title":"Professor",
+  "office":"Astr 202A",
+  "phone":"646.1400",
+  "email":"aklypin",
+  "research":"Cosmological simulations; large scale structure"
+},{
+  "name":"James McAteer",
+  "title":"Assistant Professor",
+  "office":"Astr 206",
+  "phone":"646.4087",
+  "email":"mcateer",
+  "research":"Solar astrophysics; coronal mass ejections; space weather"
+},{
+  "name":"Bernie McNamara",
+  "title":"Professor",
+  "office":"Astr 104",
+  "phone":"646.2614",
+  "email":"bmcnamar",
+  "research":"Stellar dynamics, X-ray variable stars; gamma-ray bursts"
+},{
+  "name":"Jim Murphy",
+  "title":"Associate Professor",
+  "office":"Astr 202B",
+  "phone":"646.5333",
+  "email":"murphy",
+  "research":"Mars climatology; numerical modeling"
+},{
+  "name":"Nicole Vogt",
+  "title":"Associate Professor",
+  "office":"Astr 203",
+  "phone":"646.6522",
+  "email":"nicole",
+  "research":"Galaxy formation and evolution; astronomy education research"
+},{
+  "name":"Rene Walterbos",
+  "title":"Professor",
+  "office":"Astr 204",
+  "phone":"646.5990",
+  "email":"rwalterb",
+  "research":"ISM; stellar populations; star formation; galaxy morphology"
+},{
+  "name":"Bill Webber",
+  "title":"Professor Emeritus",
+  "office":"Astr 205",
+  "phone":"646.2007",
+  "email":"bwebber",
+  "research":"Cosmic ray physics; isotopic studies, gamma ray distribution"
+}]}
