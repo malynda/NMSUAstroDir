@@ -1,0 +1,11 @@
+[{"name":"Jon Holtzman",
+  "title":"Department Head",
+  "email":"holtz",
+  "office":"102 Astr",
+  "research":"stars & galaxies" },
+  {"name":"Jim Murphy",
+    "title":"Associate Professor",
+    "email":"murphy",
+    "office":"202B Astr",
+    "research":"planetary atmospheres"
+    }]

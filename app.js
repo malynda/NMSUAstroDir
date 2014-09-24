@@ -7,7 +7,7 @@
   {name:"Teresa Ross", title:"Graduate Assistant",office:"Astr 105", email:"rosst"}]}];
 
   app.controller('DeptListController', function(){
-    this.deptMembers = deptMembers.professors;
+    this.deptMembers = deptMembers;
   });
 
   app.controller('TabController', function(){

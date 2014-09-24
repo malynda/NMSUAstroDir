@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html ng-app="directory">
+  <head>
+    <title>NMSU Astronomy Department Directory</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
+  </head>
+  <body>
+    <div class="header">
+      <h1>NMSU Astronomy Department Directory</h1>
+    </div class="container">
+    <section ng-controller="TabController as tab">
+      <ul class="nav nav-pills">
+        <li ng-class="{active:tab.isSet(1)}">
+          <a href ng-click="tab.setTab(1)">Professors</a>
+        </li>
+        <li ng-class="{active:tab.isSet(2)}">
+          <a href ng-click="tab.setTab(2)">Students</a>
+        </li>
+      </ul>
+
+    <div ng-controller="DeptListController as dept">
+      <!-- <div ng-repeat = "group in dept.deptMembers" -->
+      {{dept}}
+      <div class="tab" ng-show="tab.isSet(1)">
+        <div class="row" ng-repeat = "member in dept.deptMembers" >
+          <div class="eachClassTitle col-xs-4">
+            <h3>{{member.name}}</h3>
+          </div>
+          <div class="eachClassDetails col-xs-8">
+            <p>{{member.title}}</p>
+            <p>{{member.office}}</p>
+            <p>{{member.email}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>
+    <script type="text/javascript" src="angular.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+  </body>
+</html>

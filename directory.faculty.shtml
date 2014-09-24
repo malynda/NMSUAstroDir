@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="font-size: 12px;">
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type"><title>NMSU Astronomy</title>
+
+<!-- <base href="http://astronomy.nmsu.edu/dept/html/"> -->
+<link rel="stylesheet" type="text/css" href="../css/basic.css"          media="all">
+<link rel="stylesheet" type="text/css" href="../css/cssjsmenu.css"      media="all">
+<link rel="stylesheet" type="text/css" href="../css/cssjsmenuhover.css" media="all"    id="hoverJS">
+<link rel="stylesheet" type="text/css" href="../css/num001.css"         media="screen" title="Theme">
+
+<script type="text/javascript" language="javascript" src="../css/theme-menu.js"></script>
+</head>
+
+<body onload="init()" class="home" style="font-size: 12px;">
+<script type="text/javascript"><!-- ndeSetTheme(); // --></script>
+<!-- noindex -->
+<div id="masthead">
+<h1><a href="frontpage.top.shtml" target="_top"><span>NMSU</span>Astronomy</a></h1>
+<div id="skipper"> Skip to:
+       [<a href="#content">content</a>   ]
+       [<a href="#navbar" >navigation</a>]
+       [<a href="http://astronomy.nmsu.edu/dept/xhtml/frontpage.top.shtml"><font color=red size=+1>Surfing with an old web 
+browser? Please switch over to our classic web pages.</font></a>]
+</div>
+</div>
+
+<!--/noindex-->
+<div id="main">
+<div id="content">
+
+<!-- TOP OF PAGE SPECIFIC INFORMATION -->
+<h4>Directory &raquo; Faculty</h4>
+<br>
+<p>
+<table border=0 cellspacing=0 cellpadding=0>
+<tr><td><a href="directory.faculty.holtz.shtml">Jon Holtzman</a></td>
+             <td>Department Chairman</td></tr>
+<tr><td></td><td>Astr 102, 646.8181, holtz</td></tr>
+<tr><td></td><td nowrap>Stellar populations; star clusters; galactic structure; cosmology</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.kurt.shtml">Kurt Anderson</a></td>
+             <td>Professor Emeritus</td></tr>
+<tr><td></td><td>Astr 211B, 646.1032, kurt</td></tr>
+<tr><td></td><td>Galaxy morphology; active galactic nuclei; planets</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.hbeebe.shtml">Herb Beebe</a></td>
+             <td>Professor Emeritus</td></tr>
+<tr><td></td><td>Astr 211, 646.2107, hbeebe</td></tr>
+<tr><td></td><td>The Tombaugh Project; history of NM astronomy</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.rbeebe.shtml">Reta Beebe</a></td>
+             <td>College Professor</td></tr>
+<tr><td></td><td>Astr 301, 646.1938, rbeebe</td></tr>
+<tr><td></td><td>Planets; NASA Planetary Data System</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.nchanove.shtml">Nancy Chanover</a>&nbsp&nbsp</td>
+             <td>Associate Professor</td></tr>
+<tr><td></td><td>Astr 210, 646.2567, nchanove</td></tr>
+<tr><td></td><td>Planets; infrared imaging; radiative transfer modeling</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.cwc.shtml">Chris Churchill</a></td>
+             <td>Associate Professor</td></tr>
+<tr><td></td><td>Astr 105, 646.1913, cwc</td></tr>
+<tr><td></td><td>Quasar absorption lines; variations in fundamental constant</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.tharriso.shtml">Thomas Harrison</a>&nbsp&nbsp</td>
+             <td>Observatory Research Specialist</td></tr>
+<tr><td></td><td>Astr 103, 646.3628, tharriso</td></tr>
+<tr><td></td><td>Cataclysmic variables; infrared spectroscopy</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.jasonj.shtml">Jason Jackiewicz</a></td>
+             <td>Assistant Professor</td></tr>
+<tr><td></td><td>Astr 106, 646.1699, jasonj</td></tr>
+<tr><td></td><td nowrap>Helioseismology</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.jojohnso.shtml">Joni Johnson</a></td>
+             <td>Research Fellow</td></tr>
+<tr><td></td><td>Astr 211A, 646.1518, jojohnso</td></tr>
+<tr><td></td><td>Cataclysmic variables; PAGB stars</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.aklypin.shtml">Anatoly Klypin</a></td>
+             <td>Professor</td></tr>
+<tr><td></td><td>Astr 202A, 646.1400, aklypin</td></tr>
+<tr><td></td><td>Cosmological simulations; large scale structure</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td nowrap><a href="directory.faculty.mcateer.shtml">James McAteer</a>&nbsp&nbsp</td>
+             <td>Assistant Professor</td></tr>
+<tr><td></td><td>Astr 206, 646.4087, mcateer</td></tr>
+<tr><td></td><td>Solar astrophysics; coronal mass ejections; space weather</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td nowrap><a href="directory.faculty.bmcnamar.shtml">Bernie McNamara</a>&nbsp&nbsp</td>
+             <td>Professor</td></tr>
+<tr><td></td><td>Astr 104, 646.2614, bmcnamar</td></tr>
+<tr><td></td><td>Stellar dynamics, X-ray variable stars; gamma-ray bursts</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.murphy.shtml">Jim Murphy</a></td>
+             <td>Associate Professor</td></tr>
+<tr><td></td><td>Astr 202B, 646.5333, murphy</td></tr>
+<tr><td></td><td>Mars climatology; numerical modeling</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.nicole.shtml">Nicole Vogt</a></td>
+             <td>Associate Professor</td></tr>
+<tr><td></td><td>Astr 203, 646.6522, nicole</td></tr>
+<tr><td></td><td>Galaxy formation and evolution; <a href=http://astronomy.nmsu.edu/geas/oview/geas.shtml target="_ext">astronomy education research</a></td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.rwalterb.shtml">Rene Walterbos</a></td>
+             <td>Professor</td></tr>
+<tr><td></td><td>Astr 204, 646.5990, rwalterb</td></tr>
+<tr><td></td><td>ISM; stellar populations; star formation; galaxy morphology</td></tr>
+
+<tr><td height=10>&nbsp</td></tr>
+<tr><td><a href="directory.faculty.bwebber.shtml">Bill Webber</a></td>
+             <td>Professor Emeritus</td></tr>
+<tr><td></td><td>Astr 205, 646.2007, bwebber</td></tr>
+<tr><td></td><td>Cosmic ray physics; isotopic studies, gamma ray distribution</td></tr>
+
+</table>
+
+<p>Please append "@nmsu.edu" to all contact e-mail addresses listed above.
+
+ 
+<!-- END OF PAGE SPECIFIC INFORMATION -->
+
+</div>
+
+<div class="sidebar" id="textbar">
+
+<!-- TOP OF MENU SPECIFIC INFORMATION -->
+<h4>Directory</h4>
+<p>
+<ul>
+<li><a href="directory.findus.shtml"                                  >Find Us</a>
+<li><a href="directory.contacts.shtml"                                >Contact Us</a>
+<li><a href="directory.faculty.shtml"                                 >Faculty</a>
+<li><a href="directory.rstaff.shtml"                                  >Research Staff</a>
+<li><a href="directory.apostaff.shtml"                                >APO Staff</a>
+<li><a href="directory.students.shtml"                                >Students</a>
+<li><a href="directory.staff.shtml"                                   >Staff</a>
+<li><a href="directory.alumni.shtml"                                  >Alumni</a>
+<li><a href="http://accounts.nmsu.edu/accounts/phonebook/index.php" target="_public">Phone Book</a>
+</ul>
+</p>
+ 
+<!-- END OF MENU SPECIFIC INFORMATION -->
+
+<br>
+<h4>Guide</h4>
+<p>
+<ul>
+<li><a href="http://astronomy.nmsu.edu/dept/html/frontpage.top.shtml" >Home</a>
+<li><a href="http://www.nmsu.edu/Server/Search.html"  target="_public">Search</a>
+<li><a href="http://astronomy.nmsu.edu/holtz/dept">Internal dept info</a> 
+<li><a href="http://astronomy.nmsu.edu/computing/index.html" target="_public">Computing</a>
+
+<li><a href="directory.virgil.shtml"                                  >Virgil</a>
+</ul>
+</p>
+<br>
+<h4>Drink Me, Alice</h4>
+<p>
+<ul>
+<li><a href="javascript:void(0);" onclick="ndeSetTextSize('decr');  return false;" title="Shrink text"  class="ui">Smaller</a>
+<li><a href="javascript:void(0);" onclick="ndeSetTextSize('incr');  return false;" title="Enlarge text" class="ui">Larger</a>
+<li><a href="javascript:void(0);" onclick="ndeSetTextSize('reset'); return false;" title="Reset text"   class="ui">Reset</a>
+</ul>
+</p>
+</div>
+
+<!--noindex--><div id="navbar"><ul class="nde-menu-system">
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static;">
+<a target="_top" href="research.top.shtml"                                            >Research</a>
+<ul style="position: absolute; left: -13em; visibility: hidden;">
+<li><a href="research.planetary.shtml"                                                >Planetary</a>
+<li><a href="research.stellar.shtml"                                                  >Solar & Stellar</a>
+<li><a href="research.galactic.shtml"                                                 >Galactic</a>
+<li><a href="research.extragalactic.shtml"                                            >Extragalactic</a>
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static; padding-bottom: 0pt;">
+<a target="_top" href="talks.top.shtml"                                               >Talks</a>
+<ul style="position: absolute; left: 188px; top: 16px; visibility: hidden;">
+<!--
+<li><a href="talks.news.shtml"                                                        >What's New</a>
+<li><a href="http://atmos.nmsu.edu/pub/MGS/Fall-2009-AstrColloquiumSched.pdf" target="_public">Colloquia</a>
+<li><a href="talks.colloq.shtml" target="_public">Colloquia</a>
+-->
+<li><a href="talks.colloquia.shtml" target="_public">Colloquia</a>
+<li><a href="talks.pizza.shtml"                                                       >Pizza Lunch</a>
+<!--
+<li><a href="http://astronomy.nmsu.edu/nicole/colloquia/home.html"    target="_public">Colloquia</a>
+<li><a href="http://astronomy.nmsu.edu/aklypin/pizzalunch.html"       target="_public">Pizza Lunch</a>
+-->
+<li><a href="talks.seminar.shtml"                                                     >Seminar</a>
+<li><a href="talks.journal.shtml"                                                     >Journal Club</a>
+<li><a href="talks.planetary.shtml"                                                   >Planetary Group</a>
+<li><a href="talks.solar.shtml"                                                       >Solar Group</a>
+<li><a href="talks.galaxy.shtml"                                                      >Galaxy Group</a>
+<!--
+<li><a href="sdss.sdss.shtml"                                                         >SDSS Mtg.</a>
+-->
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static; padding-bottom: 0pt;">
+<a target="_top" href="public.top.shtml"                                                >Public Events</a>
+<ul style="position: absolute; left: 234px; top: 16px; visibility: hidden;">
+<li><a href="public.open.shtml"                                                         >Open Houses</a>
+<li><a href="public.request.shtml"                                                      >Request a Visit</a>
+<li><a href="public.askastro.shtml"                                                     >Ask an Astronomer</a>
+<li><a href="http://www.astrosociety.org/education/astro/project_astro.html" target="_public">Project Astro</a>
+<li><a href="http://aslc-nm.org/"                                            target="_public">Amateur Society</a>
+<li><a href="http://www.las-cruces.org/en/Departments/Public%20Services/Services/Museums/Natural%20History%20Museum/Visitor%20Information.aspx"     target="_public">Natural History Museum</a>
+<li><a href="http://www.nps.gov/whsa/planyourvisit/stargazing.htm"           target="_public">White Sands</a>
+<li><a href="http://enchantedskies.org/"                                     target="_public">Enchanted Skies</a>
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static;">
+<a target="_top" href="observatories.top.shtml"                                          >Observatories</a>
+<ul style="position: absolute; left: -13em; visibility: hidden;">
+<li><a href="http://www.apo.nmsu.edu"                                  target="_research">Apache Point</a>
+<li><a href="http://www.sdss.org"                                      target="_research">SDSS</a>
+<li><a href="http://nmsu1m.apo.nmsu.edu/1m/"                           target="_research">NMSU 1-meter</a>
+<li><a href="http://www.nmsu.edu/General/Maps/buildings/observat.html" target="_research">Tombaugh</a>
+<li><a href="http://atmos.nmsu.edu"                                    target="_research">Planetary Node</a>
+<!--
+<li><a href="http://www.vla.nrao.edu"                                  target="_research">Very Large Array</a>
+<li><a href="http://www.nso.edu"                                       target="_research">National Solar</a>
+<li><a href="http://www.aura-astronomy.org"                            target="_research">AURA</a>
+-->
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static; padding-bottom: 0pt;">
+<a target="_top" href="academics.undergraduate.shtml"                                                  >Academics</a>
+<ul style="position: absolute; left: 284px; top: 16px; visibility: hidden;">
+<li><a href="academics.undergraduate.shtml"                                                            >Undergraduate Program</a>
+<li><a href="http://catalog.nmsu.edu/undergrad-2013-2014/03-as/astr.html"              target="_public">Undergraduate Catalog</a>
+
+<li><a href="academics.fall2014.shtml"                                                                 >Fall    2014</a>
+<li><a href="academics.sprn2014.shtml"                                                                 >Spring  2014</a>
+<li><a href="academics.fall2013.shtml"                                                                 >Fall    2013</a>
+<li><a href="academics.sprn2013.shtml"                                                                 >Spring  2013</a>
+
+<li><a href="https://www.nmsu.edu"                                                     target="_public">NMSU</a>
+<li><a href="https://www.nmsu.edu/course"                                              target="_public">Registration</a>
+<li><a href="https://www.nmsu.edu/General/academic_calendar.html"                      target="_public">Calendar</a>
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static; padding-bottom: 0pt;">
+<a target="_top" href="academics.graduate.shtml"                                                       >Graduate Work</a>
+<ul style="position: absolute; left: 284px; top: 16px; visibility: hidden;">
+<li><a href="academics.graduate.shtml"                                                                 >Program</a>
+<li><a href="academics.handbook.shtml"                                                                 >Handbook</a>
+<li><a href="http://catalog.nmsu.edu/grad-2013-2014/03-as/astr.html"                   target="_public">Catalog</a>
+<li><a href="academics.external.shtml"                                                                 >External Courses</a>
+<li><a href="academics.admissions.shtml"                                                               >Admissions</a>
+<li><a href="academics.awards.shtml"                                                                   >Awards</a>
+<li><a href="academics.outreach.shtml"                                                                 >Outreach</a>
+<li><a href="academics.gradstudorg.shtml"                                                              >Students (AGSO)</a>
+<li><a href="academics.gradfaq.shtml"                                                                  >FAQ</a>
+<li><a href="academics.evaluations.shtml"                                                              >Course Evaluations</a>
+</ul>
+</li>
+
+<li class="submenu" style="display: inline; list-style-type: none; 
+list-style-position: outside; list-style-image: none; position: static; padding-bottom: 0pt;">
+<a target="_top" href="directory.faculty.shtml"                                  >Directory</a>
+<ul style="position: absolute; left: 117px; top: 16px; visibility: hidden;">
+<li><a href="directory.findus.shtml"                                             >Find Us</a>
+<li><a href="directory.contacts.shtml"                                           >Contact Us</a>
+<li><a href="directory.faculty.shtml"                                            >Faculty</a>
+<li><a href="directory.rstaff.shtml"                                             >Research Staff</a>
+<li><a href="directory.apostaff.shtml"                                           >APO Staff</a>
+<li><a href="directory.students.shtml"                                           >Students</a>
+<li><a href="directory.staff.shtml"                                              >Staff</a>
+<li><a href="directory.alumni.shtml"                                             >Alumni</a>
+<li><a href="http://accounts.nmsu.edu/accounts/phonebook/index.php" target="_public">Phone Book</a>
+</ul>
+</li>
+
+</ul>
+</div>
+<!--/noindex--><!--noindex--><div id="nde-config"></div>
+
+<!--/noindex-->
+</div>
+
+<!--noindex--><div id="nde-footer">
+<a href="#masthead" id="totop">Top of page</a> 
+Surfing with an old web browser? Please switch over to our <a href="http://astronomy.nmsu.edu/dept/xhtml/frontpage.top.shtml">classic web pages</a>. <br>
+Copyright &copy; 2001&ndash;2014 New Mexico State University. All rights reserved. <br>
+Please address comments to <a href="mailto:wwwastro@nmsu.edu">wwwastro@nmsu.edu</a>.
+
+</div>
+<!--/noindex-->
+
+</body>
+</html>
